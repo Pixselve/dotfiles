@@ -6,6 +6,8 @@
 brew install fzf
 brew install zoxide
 brew install eza
+brew install neovim
+
 ```
 
 ## Installation
